@@ -3,8 +3,6 @@
 clear
 echo "**************************************************************************************"
 echo " Automatic C++ source code generator/compiler "
-echo " 99.9% code by Paranoid Ninja "
-echo " 0.1% code by Astr0 Baby " 
 echo " PE32+ executable (GUI) x86-64 "
 echo "**************************************************************************************"
 
